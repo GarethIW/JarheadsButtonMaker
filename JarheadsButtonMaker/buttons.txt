@@ -9,3 +9,5 @@ gfx+audio
 player
 quit
 deploy
+exit game
+resume
